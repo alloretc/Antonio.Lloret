@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+//Professor and researcher at the Business Department at ITAM and the Center for Energy and Natural Resources. He holds a PhD in Environmental Science and Management at the Bren School at the University of California Santa Barbara. A Master in Business Statistics at UNSW in Sydney Australia and a B.A. in Business at ITAM.//
 - Bulleted
 - List
 
